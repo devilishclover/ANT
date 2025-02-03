@@ -1,7 +1,7 @@
 # A.N.T AI NOTE TAKER
 
 ## Overview
-A.N.T AI NOTE TAKER is a desktop application that allows users to record audio, transcribe it into text, generate structured lecture notes, and ask AI-based questions on the notes. This tool is ideal for students and professionals who need an efficient way to document and review spoken content.
+A.N.T AI NOTE TAKER is a simple application that allows users to record audio, transcribe it into text, generate structured lecture notes, and ask an AI questions on the notes.
 
 ## Features
 - **Audio Recording**: Record lectures or meetings and save them in MP3 format.
@@ -9,7 +9,7 @@ A.N.T AI NOTE TAKER is a desktop application that allows users to record audio, 
 - **Automated Note Generation**: Generate structured, easy-to-read notes from transcriptions using AI.
 - **Question Answering**: Ask AI questions based on the generated notes.
 - **File Management**: Organize and manage recordings, transcripts, and notes within the application.
-- **Dark Mode Support**: Toggle between dark and light themes for better usability.
+- **Dark Mode Support**: Toggle between dark and light themes.
 
 ## Installation
 ### Prerequisites
