@@ -43,6 +43,10 @@ Ensure you have the following installed on your system:
 6. **Dark Mode Toggle**
    - Click "Dark Mode" to switch between themes.
 
+## Known issues
+- **prompt length limit**
+    - in a long lecture (30 min +) the ai has trouble summerizing
+
 ## Folder Structure
 - `Recordings/` - Stores audio recordings (.mp3 files)
 - `Transcripts/` - Stores transcribed text (.txt files)
