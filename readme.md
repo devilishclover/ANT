@@ -39,7 +39,7 @@ Ensure you have the following installed on your system:
 4. **Asking Questions**
    - Select a notes file and click "Ask" to input a question related to the lecture content.
 5. **Managing Files**
-   - Use the playlist to view, open, or delete recordings, transcripts, and notes.
+   - Use the file browser to view, open, or delete recordings, transcripts, and notes.
 6. **Dark Mode Toggle**
    - Click "Dark Mode" to switch between themes.
 
