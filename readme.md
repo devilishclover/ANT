@@ -19,7 +19,7 @@ Ensure you have the following installed on your system:
   ```sh
   pip install tkinter pygame sounddevice numpy scipy pydub openai-whisper ollama
   ```
--Ollama with ALIENTELLIGENCE/contentsummarizer and llama3.2
+- Ollama with ALIENTELLIGENCE/contentsummarizer and llama3.2
 
 ### Setup
 1. Clone this repository or download the script.
